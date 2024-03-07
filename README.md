@@ -1,4 +1,4 @@
 # demooo
 
 check file
-AP
+AP(info)
